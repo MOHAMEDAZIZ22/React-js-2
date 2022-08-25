@@ -1,0 +1,12 @@
+body {
+    background-color: red;
+}
+.App-header{
+    font-size: xx-large;
+}
+
+.App-header {
+    justify-content: space-between;
+    padding-left: 30%;
+    
+}
