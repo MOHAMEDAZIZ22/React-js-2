@@ -44,7 +44,7 @@ body{
 }
 .tot, .tot1, .tot2, .tot3{
   border: 2px solid gray;
-  box-shadow: 2px 2px 2px 2px red;
+  box-shadow: 2px 2px 2px 2px redf;
   display: flex;
 }
 

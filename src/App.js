@@ -1,6 +1,7 @@
 import './App.css';
 import Foods from './components/zomato.js';
 import Forms from './components/form';
+import map from './components/map';
 
 
 function App() {
